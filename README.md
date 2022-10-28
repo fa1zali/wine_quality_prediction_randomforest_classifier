@@ -2,7 +2,7 @@
 27th Oct 2022
 
 ### Project Title
-**Wine Quality Prediction using ML**
+**Wine Quality Prediction using RandomForest Classifier**
 
 ### Description
 A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
